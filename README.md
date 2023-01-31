@@ -1,7 +1,7 @@
 # Overview
 
-This project utilizes and esp32 and to send an message over telegram if a dooror window opens/closes.
-It works with detecting if the reed-switch is closed or not,and then sends a message acordingly.
+This project utilizes and esp32 and to send an message over telegram if a door or window opens/closes.
+It works with detecting if a connected reed-switch is closed or not,and then sends a message acordingly.
 
 
 

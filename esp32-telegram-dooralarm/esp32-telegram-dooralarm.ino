@@ -41,13 +41,13 @@ pinMode(reedSwitch, INPUT_PULLUP); //set pinmode
   Serial.println("");
   Serial.println("WiFi connected");  
 
-  bot.sendMessage(CHAT_ID, "Bot started up", ""); //send a message startup message
+  bot.sendMessage(CHAT_ID, "Bot started up", ""); //send a startup message
 
 
 
 }
 
-void loop() {  //sets the value of  the reedSwitch pin at the start as base, and  then checks if anything changed, and then acts acordingly
+void loop() {  //sets the value of  the reedSwitch pin at the start as base, and  then checks if anything changed, then acts acordingly
   static int lastval = !digitalRead(reedSwitch);
   int val = digitalRead(reedSwitch);
 

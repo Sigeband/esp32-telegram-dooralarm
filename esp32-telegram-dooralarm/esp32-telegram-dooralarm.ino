@@ -59,13 +59,14 @@ void loop() {  //sets the value of  the reedSwitch pin at the start as base, and
       Serial.println("door open");
       bot.sendMessage(CHAT_ID, "The door is open");
 
+
     }
     else
     {
       
       Serial.println("door closed");
       bot.sendMessage(CHAT_ID, "The door is closed");
-
+      
     }
     lastval = val;
   }

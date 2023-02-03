@@ -6,20 +6,19 @@ It works with detecting if a connected reed-switch is closed or not,and then sen
 
 
 
-# Pinout:
+## Pinout:
 
 ![image](https://user-images.githubusercontent.com/114338337/215847824-6a8d162c-2f7a-4fb1-961a-24563dd50137.png)
 
-# Materials:
+## Materials:
 
 ```
-1x ESP-32 NMCU(Can be any esp32)
+1x ESP-32 NMCU (Can be any esp32)
 1x 10K resitor
-1x breadbord(optional)
-jumper wire(optiional)
+4x M2x12 flathead screws (for the case)
 ```
 
-# Steps
+## Steps
 
 ```
 1. Create a bot using botfather over telegram.(and copy the token)
@@ -35,3 +34,20 @@ jumper wire(optiional)
 
 10. Still doesnt work? reach out to me, *maybe* i can help.
 ```
+
+## 3D-Printing / Recommended Settings 
+
+The case is designed to keep the esp32 safe, while still allowing a usb connection.
+On the left side of the design you can see a small "tunnel" for the wires to pass through.
+The case is designed to fit an nmcuesp32 with headers and the resistor.
+
+*Recommended settings:*
+
+```
+0.28 layer height
+40% infill 
+3 walls
+PLA/PETG/ABS (NO TPU)
+Textured PEI sheet (for the looks)
+```
+

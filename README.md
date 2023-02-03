@@ -24,13 +24,14 @@ jumper wire(optiional)
 ```
 1. Create a bot using botfather over telegram.(and copy the token)
 2. Get your chatid via the myid bot.(and copy it)
-3. Add the token, and  chatid to the code.
-4. Now add your wifi information.
-5. Wire everything according to the "Pinout" section
-6. Flash the code.
-7. It Works!
+3. Search for your bot,and klick start, else the bot wont be able to send you messages!
+4. Add the token, and  chatid to the code.
+5. Now add your wifi information.
+6. Wire everything according to the "Pinout" section
+7. Flash the code.
+8. It Works!
 
-8. if it doesnt, check the serial monitor and the code to see whats wrong / where its getting stuck.)
+9. if it doesnt, check the serial monitor and the code to see whats wrong / where its getting stuck.)
 
-9. Still doesnt work? reach out to me, *maybe* i can help.
+10. Still doesnt work? reach out to me, *maybe* i can help.
 ```

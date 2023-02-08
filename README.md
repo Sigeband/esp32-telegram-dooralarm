@@ -25,12 +25,12 @@ It works with detecting if a connected reed-switch is closed or not,and then sen
 2. Get your chatid via the myid bot.(and copy it)
 3. Search for your bot,and klick start, else the bot wont be able to send you messages!
 4. Add the token, and  chatid to the code.
-5. Now add your wifi information.
-6. Wire everything according to the "Pinout" section
-7. Flash the code.
+5. Wire everything according to the "Pinout" section.
+6. Flash the code.
+7. Connect to the AP and enter your wifi credentials.
 8. It Works!
 
-9. if it doesnt, check the serial monitor and the code to see whats wrong / where its getting stuck.)
+9. if it doesnt, check the serial monitor and the code to see whats wrong / where its getting stuck.
 
 10. Still doesnt work? reach out to me, *maybe* i can help.
 ```
@@ -39,7 +39,7 @@ It works with detecting if a connected reed-switch is closed or not,and then sen
 
 The case is designed to keep the esp32 safe, while still allowing a usb connection.
 On the left side of the design you can see a small "tunnel" for the wires to pass through.
-The case is designed to fit an nmcuesp32 with headers and the resistor.
+The case is designed to fit an nmcuesp32 with headers and the pulldownresistor.
 
 *Recommended settings:*
 

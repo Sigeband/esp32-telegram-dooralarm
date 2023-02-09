@@ -15,6 +15,7 @@ It works with detecting if a connected reed-switch is closed or not,and then sen
 ```
 1x ESP-32 NMCU (Can be any esp32)
 1x 10K resitor
+1x reedswitch
 4x M2x12 flathead screws (for the case)
 ```
 

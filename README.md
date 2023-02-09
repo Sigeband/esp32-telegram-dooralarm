@@ -22,8 +22,8 @@ It works with detecting if a connected reed-switch is closed or not,and then sen
 ## Steps
 
 ```
-1. Create a bot using botfather over telegram.(and copy the token)
-2. Get your chatid via the myid bot.(and copy it)
+1. Create a bot using botfather over telegram.(and copy/paste the token)
+2. Get your chatid via the myid bot.(and copy/paste it)
 3. Search for your bot,and klick start, else the bot wont be able to send you messages!
 4. Add the token, and  chatid to the code.
 5. Wire everything according to the "Pinout" section.

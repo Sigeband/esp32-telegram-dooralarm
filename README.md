@@ -7,7 +7,8 @@ It works with detecting if a connected reed-switch is closed or not,and then sen
 
 
 ## Pinout:
-![Unbenannt](https://user-images.githubusercontent.com/114338337/218260640-46d1bd86-a225-4621-8ad3-b05b861f17e0.PNG)
+![Unbenannt](https://user-images.githubusercontent.com/114338337/218264072-3d505e95-0f1b-419e-9ada-8391d7e6b9ec.PNG)
+
 
 
 
